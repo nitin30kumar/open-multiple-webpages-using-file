@@ -8,9 +8,9 @@
 
 ### How to run
 
-- Open the file (open-multiple-links-from-file.py)[https://github.com/nitin30kumar/open-multiple-webpages-using-file/blob/main/open-multiple-links-from-file.py] 
+- Open the file (open-multiple-links-from-file.py)[https://github.com/nitin30kumar/open-multiple-webpages-using-file/blob/main/open-multiple-links-from-file.py]  
 - It asks you for the file path. Provide the full path.
-> I've provided a dump file which contains some old SQL vulnerable sites. The file is located (here)[https://github.com/nitin30kumar/open-multiple-webpages-using-file/blob/main/SQL%20vulnerability%20sites.txt]
+> I've provided a dump file which contains some old SQL vulnerable sites. The file is located (here)[https://github.com/nitin30kumar/open-multiple-webpages-using-file/blob/main/SQL%20vulnerability%20sites.txt]  
 - Click Enter
 
 ```It's just a random small project on autoamtion and Selenium from Python```
