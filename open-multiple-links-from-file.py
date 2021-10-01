@@ -1,4 +1,3 @@
-# python program to automate login into my website
 import selenium
 import time
 from selenium import webdriver
